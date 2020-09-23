@@ -136,7 +136,6 @@ class Test{
      public static void main(String[] args)
     {
         //local declarations and assinments
-        System.out.println("Tek Subedi\nCS 4476\nAssignment 2 Q 1.3");
         ArrayList<String> list=new ArrayList<String>();//Creating arraylist 
         String inputStr = "(hello, dear. how are you?)";
         String binaryStrg = "";
