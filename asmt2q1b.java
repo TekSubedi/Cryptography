@@ -15,7 +15,6 @@ public class asmt2q1b {
     public static void main(String[] args)
     {
         // local declarations and assinments
-        System.out.println("Tek Subedi\nCS 4476\nAssignment 2 Q 1.2");
         String str1 = "hello";
         String kstr2 = "k";
         String finalOutputStr = "";
