@@ -18,7 +18,6 @@ public class asmt2q1d {
     public static void main(String[] args)
     {
         // local declaration and assignments
-        System.out.println("Tek Subedi\nCS 4476\nAssignment 2 Q 1.4");
         ArrayList<String> myList=new ArrayList<String>();//Creating arraylist 
         String plainText = "how do you like computer science";
         System.out.println("The plain Text is : " + plainText);
