@@ -123,7 +123,6 @@ public class Asmt2q1a {
     }
     public static void main(String[] args)
     {
-        System.out.println("Tek Subedi\nCS 4476\nAssignment 2 Q 1.1");
         String reversedEngStr = "";
         String str = "hello";
         System.out.println("Original String before converting to binary : \n" + str);
